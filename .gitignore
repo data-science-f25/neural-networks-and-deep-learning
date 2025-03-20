@@ -10,3 +10,4 @@ notebooks/out.txt
 notebooks/more_data_svm.json
 notebooks/more_data.json
 notebooks/weight_initialization.txt
+data/mnist_expanded.pkl.gz
